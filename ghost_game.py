@@ -1,7 +1,8 @@
 # Ghost Game
 from random import randint
 
-print("Ghost Game")
+print(" Welcome to Karmanpreet's Ghost Game!")
+print("----------")
 feeling_brave = True
 score = 0
 while feeling_brave:
