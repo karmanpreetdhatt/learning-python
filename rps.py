@@ -8,6 +8,7 @@ winner = ""
 
 computer_guess = randint(0, 2)
 
+print("Welcome to Karman's Rock, Paper, Scissors game!")
 print("Rock, paper, scissor, shoot!")
 
 user_guess = (
