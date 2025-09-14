@@ -1,0 +1,18 @@
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, alligator!')
+print('See you later, stupid gamer!')
+KeyError
+KeyboardInterrupt
