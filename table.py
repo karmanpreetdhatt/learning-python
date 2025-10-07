@@ -1,4 +1,4 @@
-
+print("Welcome to Karman's multiplication table generator!")
 num = int(input("Enter a number and I will print a table for it: "))
 
 for i in range(100):
