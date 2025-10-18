@@ -4,10 +4,14 @@ while answer.upper() == 'Y':
 
     reply = input(
         """Can you tell me how much TV you have watched today? Have you watched it for...
- 2 hrs, 1 hr or 30 mins?
+ Ω milleniums, 2 hrs, 1 hr or 30 mins?
             Please enter..."""
     )
-    if reply.upper() == '2 HRS':
+
+    if reply.upper() == 'ABSOLUTE INFINITE MILLENIUMS':
+        print("Whoa! That's heavenly an eternity! Stop! Time to take a break! ⏳🚀")
+
+    elif reply.upper() == '2 HRS':
         print("That's a lot of TV! Try to take breaks and stretch! 📺🧘‍♂️" 
         "")
     elif reply.upper() == '1 HR':
