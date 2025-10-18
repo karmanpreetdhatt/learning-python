@@ -16,7 +16,7 @@ while answer.upper() == 'Y':
     elif reply.upper() == '30 MINS':
         print("Great! Keep it up and enjoy your day! 🌞😊")
     else:
-        print("Hmm, that doesn't seem right. Please enter a valid option! 🤔😅")
+        print("Hmm, that's funny. What a joke! 😅")
     answer = input(
         "Do you want to tell me how much TV you have watched today again? (Y/N)"
     )
