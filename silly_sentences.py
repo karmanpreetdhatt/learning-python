@@ -1,7 +1,7 @@
 from random import randint
 adjectives = ["Happy", "Sad", "Angry", "Excited", "Bored"]
 names = ["Alice", "Bob", "Charlie", "Diana", "Eve"]
-verbs = ["slaps", "climbes", "swims", "kicks", "throws"]
+verbs = ["slaps", "climbes", "drives", "kicks", "throws"]
 addends = ["a", "on a", "the", "my", "your", "their"]
 nouns = ["dog", "cat", "car", "house", "tree"]
 def pick (words):
