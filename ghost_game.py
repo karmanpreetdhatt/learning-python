@@ -22,4 +22,4 @@ while feeling_brave:
         print("No ghost! THANK GOD! 🥲")
         print("You are lucky! ☺️☺️")
 print("Run! Quick, quick! Oh, quuuuuuuuiiiiiiiiiccckk!")
-print(f"Game over!")
+print(f"Game over! Your score is: {score}")
